@@ -47,3 +47,6 @@ Analytic-miniRT/
 * C99 compiler (tested on gcc and clang)
 * MiniLibX (for window and image display)
 
+## Development Period
+
+February 1, 2023 – March 15, 2023
