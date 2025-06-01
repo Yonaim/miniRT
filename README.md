@@ -50,3 +50,9 @@ Analytic-miniRT/
 ## Development Period
 
 February 1, 2023 – March 15, 2023
+
+## Authors
+
+* [Yonaim](https://github.com/Yonaim)
+* [hyeuu](https://github.com/hey-uu)
+  
