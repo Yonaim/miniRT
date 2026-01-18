@@ -1,10 +1,16 @@
 # miniRT
 
-A minimal ray tracing renderer written in C, implementing basic analytic rendering of 3D scenes. Developed from scratch as part of the 42Cursus.
-
-## Description
-
 miniRT is a small ray tracing program that renders simple 3D scenes using analytic geometry. The project focuses on implementing the core concepts of ray tracing, including intersections, lighting, and shading, without relying on external graphics libraries.
+
+## Gallary
+
+<img src="scene/gallary/ornament_balls.PNG" width="600" />
+
+<img src="scene/gallary/chess2.PNG" width="600" />
+
+<img src="scene/gallary/snowball.PNG" width="600" />
+
+<img src="scene/gallary/sphere_in_box.png" width="600" />
 
 ## Features
 
